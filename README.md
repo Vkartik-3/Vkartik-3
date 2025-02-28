@@ -22,7 +22,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vkartik-3&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
+## 👨‍💻 About Me
 
 ```javascript
 const kartik = {
@@ -44,7 +44,7 @@ const kartik = {
 };
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🚀 MarketWatch: Intelligent Financial Risk Analyzer</b></summary>
@@ -94,7 +94,7 @@ const kartik = {
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -128,7 +128,7 @@ const kartik = {
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vkartik-3&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
@@ -139,7 +139,7 @@ const kartik = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkartik-3&hide_border=true&layout=compact&theme=radical" width="60%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> Achievements & Leadership
+## 🏆 Achievements & Leadership
 
 <div align="center">
   <table>
@@ -181,12 +181,13 @@ const kartik = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" />
+  <a href="https://komarev.com/ghpvc/?username=Vkartik-3">
+    <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" alt="Profile Views Counter" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> 
-  <strong>Let's connect and build something amazing together!</strong>
+  👋 <strong>Let's connect and build something amazing together!</strong>
 </div>
