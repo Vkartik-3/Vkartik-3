@@ -22,6 +22,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vkartik-3&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
 </div>
 
+![GitHub Contribution Snake](https://github.com/Vkartik-3/Vkartik-3/blob/output/github-contribution-grid-snake.svg)
+
 ## 👨‍💻 About Me
 
 ```javascript
@@ -43,6 +45,7 @@ const kartik = {
   currentlyLearning: "Proximal Policy Optimization & Multi-Agent RL Systems"
 };
 ```
+
 
 ## 🚀 Featured Projects
 
