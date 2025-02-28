@@ -175,13 +175,13 @@ const kartik = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vkartik-3/Vkartik-3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
-<div align="center">
   <p>PROFILE VIEWS</p>
   <a href="https://komarev.com/ghpvc/?username=Vkartik-3">
     <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" alt="Profile Views Counter" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Vkartik-3/Vkartik-3/actions/workflows/snake.yml">
+    <img src="https://github.com/Vkartik-3/Vkartik-3/actions/workflows/snake.yml/badge.svg?branch=output" alt="Generate Snake Workflow Status" />
   </a>
 </div>
 
