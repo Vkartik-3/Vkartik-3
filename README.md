@@ -181,6 +181,7 @@ const kartik = {
 </div>
 
 <div align="center">
+  <p>PROFILE VIEWS</p>
   <a href="https://komarev.com/ghpvc/?username=Vkartik-3">
     <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" alt="Profile Views Counter" />
   </a>
