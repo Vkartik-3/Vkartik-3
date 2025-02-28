@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
   
   # Kartik Vadhawana
   
@@ -174,8 +174,10 @@ const kartik = {
   </table>
 </div>
 
+<!-- Note: You'll need to set up the snake animation with a GitHub Action -->
+<!-- For instructions, visit: https://github.com/Platane/snk -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vkartik-3/Vkartik-3/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github.com/Vkartik-3/Vkartik-3/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <div align="center">
