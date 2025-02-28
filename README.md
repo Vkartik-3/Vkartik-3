@@ -174,10 +174,8 @@ const kartik = {
   </table>
 </div>
 
-<!-- Note: You'll need to set up the snake animation with a GitHub Action -->
-<!-- For instructions, visit: https://github.com/Platane/snk -->
 <div align="center">
-  <img src="https://github.com/Vkartik-3/Vkartik-3/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vkartik-3/Vkartik-3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 <div align="center">
