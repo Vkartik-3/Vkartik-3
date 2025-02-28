@@ -39,7 +39,7 @@ const kartik = {
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "Cassandra"],
     cloud: ["AWS", "Docker", "Kubernetes", "Apache Spark", "Kafka", "Hadoop"]
   },
-  funFact: "I think I am funny 🙂",
+  funFact: "OK",
   currentlyLearning: "Proximal Policy Optimization & Multi-Agent RL Systems"
 };
 ```
