@@ -134,20 +134,23 @@ const kartik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vkartik-3&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&hide_border=true&theme=radical" width="48%" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vkartik-3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+
+  <!-- Most Used Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vkartik-3&layout=compact&langs_count=8&theme=radical" />
+  </a>
 </div>
 
 <div align="center">
   <h3>📈 Daily Contribution Streak</h3>
-  <a href="https://github.com/Vkartik-3">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&theme=radical&hide_border=true" alt="Kartik's GitHub streak stats" width="70%" />
+  <!-- DenverCoder1's GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Vkartik-3&theme=radical&hide_border=true" alt="Kartik's GitHub streak stats" width="70%" />
   </a>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkartik-3&hide_border=true&layout=compact&theme=radical" width="60%" />
 </div>
 
 ## 🏆 Achievements & Leadership
@@ -194,10 +197,6 @@ const kartik = {
   <p>PROFILE VIEWS</p>
   <a href="https://komarev.com/ghpvc/?username=Vkartik-3">
     <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" alt="Profile Views Counter" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Vkartik-3/Vkartik-3/actions/workflows/snake.yml">
-    <img src="https://github.com/Vkartik-3/Vkartik-3/actions/workflows/snake.yml/badge.svg?branch=output" alt="Generate Snake Workflow Status" />
   </a>
 </div>
 
