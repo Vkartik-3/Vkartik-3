@@ -137,6 +137,12 @@ const kartik = {
   <img src="https://github-readme-stats.vercel.app/api?username=Vkartik-3&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&hide_border=true&theme=radical" width="48%" />
 </div>
+
+<div align="center">
+  <h3>📈 Daily Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&properties=background" alt="Kartik's Streak Stats" width="70%" />
+</div>
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkartik-3&hide_border=true&layout=compact&theme=radical" width="60%" />
@@ -178,6 +184,11 @@ const kartik = {
 </div>
 
 <div align="center">
+  <h3>🗓️ Contribution Calendar</h3>
+  <img src="https://raw.githubusercontent.com/Vkartik-3/Vkartik-3/output/github-contribution-grid-snake.svg" alt="Contribution Calendar" width="100%" />
+</div>
+
+<div align="center">
   <p>PROFILE VIEWS</p>
   <a href="https://komarev.com/ghpvc/?username=Vkartik-3">
     <img src="https://komarev.com/ghpvc/?username=Vkartik-3&style=for-the-badge&color=6C63FF" alt="Profile Views Counter" />
@@ -192,4 +203,4 @@ const kartik = {
 
 <div align="center">
   👋 <strong>Let's connect and build something amazing together!</strong>
-</div>
+</div
