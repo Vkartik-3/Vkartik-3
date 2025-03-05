@@ -140,7 +140,9 @@ const kartik = {
 
 <div align="center">
   <h3>📈 Daily Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&properties=background" alt="Kartik's Streak Stats" width="70%" />
+  <a href="https://github.com/Vkartik-3">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&theme=radical&hide_border=true" alt="Kartik's GitHub streak stats" width="70%" />
+  </a>
 </div>
 
 <br>
@@ -203,4 +205,4 @@ const kartik = {
 
 <div align="center">
   👋 <strong>Let's connect and build something amazing together!</strong>
-</div
+</div>
