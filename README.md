@@ -22,8 +22,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vkartik-3&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true" alt="trophy" />
 </div>
 
-![GitHub Contribution Snake](https://github.com/Vkartik-3/Vkartik-3/blob/output/github-contribution-grid-snake.svg)
-
 ## 👨‍💻 About Me
 
 ```javascript
@@ -134,23 +132,17 @@ const kartik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vkartik-3&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-
-  <!-- Most Used Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vkartik-3&layout=compact&langs_count=8&theme=radical" />
-  </a>
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vkartik-3&theme=radical&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkartik-3&layout=compact&theme=radical" />
+  </p>
 </div>
 
 <div align="center">
-  <h3>📈 Daily Contribution Streak</h3>
-  <!-- DenverCoder1's GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vkartik-3&theme=radical&hide_border=true" alt="Kartik's GitHub streak stats" width="70%" />
-  </a>
+  <h3>📈 Contribution Stats</h3>
+  <p align="center">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vkartik-3&theme=radical" />
+  </p>
 </div>
 
 ## 🏆 Achievements & Leadership
@@ -186,11 +178,6 @@ const kartik = {
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h3>🗓️ Contribution Calendar</h3>
-  <img src="https://raw.githubusercontent.com/Vkartik-3/Vkartik-3/output/github-contribution-grid-snake.svg" alt="Contribution Calendar" width="100%" />
 </div>
 
 <div align="center">
